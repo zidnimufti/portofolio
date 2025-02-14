@@ -53,7 +53,7 @@ function SplashScreen() {
           onClick={handleButton1Click}
           className="bg-green-500 text-white px-4 py-2 transition duration-300 hover:opacity-75 mr-4 rounded"
         >
-          YES, CERTENLY!!!!!!!!
+          YES, CERTAINLY!!!!!!!!
         </button>
         <button
           onClick={handleButton2Click}
