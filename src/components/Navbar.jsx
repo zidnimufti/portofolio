@@ -28,6 +28,11 @@ const Navbar = () => {
             name: "Contact",
             path: "/contact",
         },
+        {
+            id: 4,
+            name: "Example",
+            path: "/example",
+        },
 
     ];
 
